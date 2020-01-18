@@ -1,0 +1,11 @@
+p{
+    background-color:yellowgreen ;
+}
+p#p1{
+    background-color: violet;
+    color: royalblue;
+}
+h1{
+    font-style: italic;
+    background-color: rgb(80, 193, 206);
+}
